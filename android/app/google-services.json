@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "462410921598",
+    "project_id": "personalsite-a6a5b",
+    "storage_bucket": "personalsite-a6a5b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462410921598:android:d3e1f3ffdf561d921cca2f",
+        "android_client_info": {
+          "package_name": "com.example.portfolio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxCRCh7CBgTJVefHS2LlW8JL7Do_ePoVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
